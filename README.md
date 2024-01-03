@@ -15,6 +15,7 @@ Print the names of the moved files and the paths to their new locations.
 Understanding of file operations and the pathlib module.
 
 # Test Case:
+**please read the following in your IDE to see the correct format!**
 Suppose you have the following file structure in the main directory:
 
 /main_directory
